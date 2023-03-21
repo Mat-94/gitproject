@@ -3,3 +3,5 @@ local Git Repo
 i. working area
 ii. staging area
 iii. commit areas
+
+let's now learn about remote repos
